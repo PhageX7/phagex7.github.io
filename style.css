@@ -1,0 +1,30 @@
+body {
+
+	/*display: flex;
+	flex-direction: column;	*/		
+	background-image: url(landing-page.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position: center;
+
+}
+
+h4 {
+
+	font-family: Times;
+	color: white;
+	
+}
+
+.btn {
+
+	margin-left: 43%;
+	margin-top: 14%;
+}
+
+.text {
+
+	margin-left: 33%;
+	margin-top: 1%;
+}
