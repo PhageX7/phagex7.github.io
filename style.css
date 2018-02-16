@@ -1,12 +1,12 @@
 body {
 
-	/*display: flex;
-	flex-direction: column;	*/		
+	display: flex;
+	flex-direction: column;			
 	background-image: url(landing-page.jpg);
 	background-size: cover;
-	background-repeat: no-repeat;
-	height: 100%;
 	background-position: center;
+	height: 100%;
+	
 
 }
 
